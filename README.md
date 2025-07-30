@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chandrahas455-psmcp-mcp-server-for-photoshop-badge.png)](https://mseep.ai/app/chandrahas455-psmcp-mcp-server-for-photoshop)
+
 # PsMCP-MCP-Server-for-Photoshop
 Watch the Demo Below
 
